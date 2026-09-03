@@ -2,7 +2,7 @@
 
 I'm passionate about accelerating the discovery and development of science, software, and machine learning with artificial intelligence.
 
-My background is in scientific computing and systems engineering. Previously, I worked on hardware-in-the-loop instrumentation, automated data pipelines, and physical simulation engines at Lawrence Berkeley National Laboratory (LBNL), Coreshell Technologies, and Nanode Battery, alongside Computer Science and Engineering coursework at UC Berkeley.
+My background is in systems architecture, scientific software engineering, and production infrastructure. Previously, I designed and architected hardware-in-the-loop instrumentation, automated distributed data pipelines, and physical simulation runtimes across Lawrence Berkeley National Laboratory (LBNL), Coreshell Technologies, Nanode Battery, and client engineering contracts, alongside Computer Science and Engineering at UC Berkeley.
 
 ---
 
@@ -39,7 +39,7 @@ While that’s the long-term horizon, practically today is about harnessing AI t
 
 ### Background
 
-* **Scientific Software Engineering**: Applied modeling, instrumentation, and data systems at LBNL, Coreshell Technologies, and Nanode Battery.
-* **Education**: Computer Science & Engineering coursework, University of California, Berkeley.
+* **Systems Architecture & Scientific Software Engineering**: Architected instrumentation engines, distributed data systems, and physical simulation infrastructure across LBNL, Coreshell Technologies, Nanode Battery, and client contracting engagements.
+* **Education**: Computer Science & Engineering, University of California, Berkeley.
 * **Location**: Boston, MA
 * **Contact**: [kaushalbalagurusamy@berkeley.edu](mailto:kaushalbalagurusamy@berkeley.edu) · (781) 686-4974 · [LinkedIn](https://linkedin.com/in/kaushalbalagurusamy)
