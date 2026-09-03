@@ -28,12 +28,12 @@ While that’s the long-term horizon, practically today is about harnessing AI t
 
 ---
 
-### Specialized Toolchain & Architecture
+### Tech
 
-* **Scientific ML & Graph Architectures**: PyTorch Geometric, RDKit, Directed Message-Passing GNNs, Continuous / Token-Free Representations
-* **Agentic Systems & Safety Guardrails**: Nvidia NeMo Guardrails, Model Context Protocol (FastMCP), Tavus CVI v2, PostgreSQL `pgvector`, Google GenAI / Gemini 3.7 Flash SDK
-* **High-Performance Systems & Runtimes**: Tokio (Async Rust), Zeroize memory scrubbing, FastAPI / Asyncpg, Solana JSON-RPC / WebSocket streams, SwiftUI (iOS 17+)
-* **Verification & Instrumentation**: Hardware-in-the-loop (HIL) DAQ, Playwright, Vitest, Cargo Test, OpenTelemetry
+* **Modeling & Graph ML**: PyTorch Geometric, RDKit, GNNs, continuous representations
+* **Agent Infrastructure & Guardrails**: NeMo Guardrails, FastMCP, pgvector, multimodal streaming
+* **Systems & Runtimes**: Tokio (Rust), FastAPI / Asyncpg, low-latency RPC/WebSocket streams, SwiftUI
+* **Instrumentation & Testing**: Hardware-in-the-loop DAQ, Vitest, Playwright, Cargo test
 
 ---
 
