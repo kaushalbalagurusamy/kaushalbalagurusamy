@@ -21,7 +21,7 @@ While that’s the long-term horizon, practically today is about harnessing AI t
 ### Selected Projects
 
 * **[synthetic-plastic-transformer](https://github.com/kaushalbalagurusamy/synthetic-plastic-transformer)** — Message-passing graph neural networks for mapping chemical topologies to polymer degradation kinetics, thermal transitions, and mechanical properties.
-* **[care-app](https://github.com/kaushalbalagurusamy/care-app)** — Relational neuroscience mobile platform engineered for Dr. Amy Banks, MD and the Relational-Cultural Theory (RCT) 50th Anniversary Conference, translating clinical neural pathway frameworks into interactive software.
+* **[care-app](https://github.com/kaushalbalagurusamy/care-app)** — Interactive assessment and education platform engineered for Dr. Amy Banks, MD and the Relational-Cultural Theory (RCT) 50th Anniversary Conference, delivering relational neuroscience evaluations to thousands of students.
 * **[ai-shadowboxing](https://github.com/kaushalbalagurusamy/ai-shadowboxing)** — Adversarial conversational video agent to rehearse high-stakes interpersonal dynamics, calibrate behavioral presence, and develop strategic negotiation skills.
 * **[verbatim-ai](https://github.com/kaushalbalagurusamy/verbatim-ai)** — Collaborative block-level document workspace and canvas with multi-model synthesis and local-first state synchronization.
 * **[candlestick-nano](https://github.com/kaushalbalagurusamy/candlestick-nano)** — Low-latency Solana DEX liquidity stream monitor and execution engine.
