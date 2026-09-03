@@ -41,5 +41,5 @@ While that’s the long-term horizon, practically today is about harnessing AI t
 
 * **Scientific Software Engineering**: Applied modeling, instrumentation, and data systems at LBNL, Coreshell Technologies, and Nanode Battery.
 * **Education**: Computer Science & Engineering coursework, University of California, Berkeley.
-* **Profiles**: [GitHub](https://github.com/kaushalbalagurusamy) · [LinkedIn](https://linkedin.com/in/kaushalbalagurusamy)
-* **Location**: San Francisco Bay Area, CA
+* **Location**: Boston, MA
+* **Contact**: [kaushalbalagurusamy@berkeley.edu](mailto:kaushalbalagurusamy@berkeley.edu) · (781) 686-4974 · [LinkedIn](https://linkedin.com/in/kaushalbalagurusamy)
