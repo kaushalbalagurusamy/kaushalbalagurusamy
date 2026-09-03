@@ -6,15 +6,15 @@ My background is in scientific computing and systems engineering. Previously, I 
 
 ---
 
-### Focus & Vision
+### Vision
 
-I believe the future of civilization is superintelligent AI. The path to achieving it requires three foundational pillars:
+I believe the future is superintelligent AI, and getting there requires three practical shifts:
 
-* **Physical Ground Truth & Sensor Design**: Reaching true scientific superintelligence requires moving beyond internet text and synthetic datasets. It demands higher-fidelity physical sensors, novel instrumentation, and automated laboratory loops capable of capturing pristine empirical data from the physical world.
-* **Post-Token Model Architectures**: Moving beyond classical neural networks and discrete token-prediction transformers toward novel computational paradigms—exploring continuous representations, non-discrete reasoning spaces, and architectures natively suited for physical and dynamical systems.
-* **Defensive Guardrails & Containment**: Developing robust defensive security architectures, formal verification, and alignment barriers on the path to positive-sum abundance to prevent poorly aligned models or bad actors from becoming existential threats.
+* **Better sensors for better physical data**: Moving beyond web text and synthetic data by building high-fidelity physical sensors and automated lab instrumentation to collect real empirical ground truth.
+* **Post-token architectures**: Developing model representations beyond standard autoregressive token-prediction transformers—exploring continuous reasoning spaces suited for physical and dynamical systems.
+* **Defensive guardrails**: Building rigorous containment, verification, and safety boundaries to prevent poorly aligned models or bad actors from becoming existential threats.
 
-While that is the long-term horizon, I am grounded in where the frontier is today. Practical progress right now is driven by harnessing AI to aggressively accelerate real-world engineering—building high-assurance software systems, low-latency robotics control loops, and high-throughput experimental telemetry pipelines.
+While that’s the long-term horizon, practically today is about harnessing AI to accelerate real engineering: high-assurance software systems, low-latency robotics control, and high-throughput experimental telemetry.
 
 ---
 
