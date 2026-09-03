@@ -22,7 +22,7 @@ While that’s the long-term horizon, practically today is about harnessing AI t
 
 * **[synthetic-plastic-transformer](https://github.com/kaushalbalagurusamy/synthetic-plastic-transformer)** — Message-passing graph neural networks for mapping chemical topologies to polymer degradation kinetics, thermal transitions, and mechanical properties.
 * **[care-app](https://github.com/kaushalbalagurusamy/care-app)** — Interactive assessment and education platform engineered for Dr. Amy Banks, MD and the Relational-Cultural Theory (RCT) 50th Anniversary Conference, delivering relational neuroscience evaluations to thousands of students.
-* **[ai-shadowboxing](https://github.com/kaushalbalagurusamy/ai-shadowboxing)** — Adversarial conversational video agent to rehearse high-stakes negotiations, calibrate behavioral presence, and develop strategic communication dynamics.
+* **[ai-shadowboxing](https://github.com/kaushalbalagurusamy/ai-shadowboxing)** — Adversarial conversational video agent to simulate and improve high-stakes negotiations, calibrate behavioral presence, and develop strategic communication dynamics.
 * **[verbatim-ai](https://github.com/kaushalbalagurusamy/verbatim-ai)** — Concurrent low-latency editor for high-speed speech note-taking, rebuttal generation, and topical scholarly evidential reinforcement.
 * **[candlestick-nano](https://github.com/kaushalbalagurusamy/candlestick-nano)** — On-chain high-frequency trading algorithm and low-latency liquidity execution engine for volatile cryptocurrency markets.
 
