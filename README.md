@@ -8,11 +8,13 @@ My background is in scientific computing and systems engineering. Previously, I 
 
 ### Focus & Vision
 
-Long-term, I'm focused on developing **scientific superintelligence**—using AI to compress decades of materials discovery, chemistry, energy systems, and biological research into days.
+I believe the future of civilization is superintelligent AI. The path to achieving it requires three foundational pillars:
 
-A major part of this work involves moving beyond traditional autoregressive transformers toward next-generation model architectures: exploring token-free continuous representations, graph message-passing networks, and non-discrete reasoning spaces better suited for physical laws and scientific modeling.
+* **Physical Ground Truth & Sensor Design**: Reaching true scientific superintelligence requires moving beyond internet text and synthetic datasets. It demands higher-fidelity physical sensors, novel instrumentation, and automated laboratory loops capable of capturing pristine empirical data from the physical world.
+* **Post-Token Model Architectures**: Moving beyond classical neural networks and discrete token-prediction transformers toward novel computational paradigms—exploring continuous representations, non-discrete reasoning spaces, and architectures natively suited for physical and dynamical systems.
+* **Defensive Guardrails & Containment**: Developing robust defensive security architectures, formal verification, and alignment barriers on the path to positive-sum abundance to prevent poorly aligned models or bad actors from becoming existential threats.
 
-As models become capable of autonomous reasoning and physical experimentation, pairing discovery engines with defensive guardrails and containment is essential. My work centers on this intersection: building the foundational architectures that accelerate scientific discovery, while designing the verification methods and safety boundaries needed to keep autonomous systems robust, auditable, and aligned.
+While that is the long-term horizon, I am grounded in where the frontier is today. Practical progress right now is driven by harnessing AI to aggressively accelerate real-world engineering—building high-assurance software systems, low-latency robotics control loops, and high-throughput experimental telemetry pipelines.
 
 ---
 
