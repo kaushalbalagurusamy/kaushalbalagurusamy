@@ -11,7 +11,7 @@ My background is in scientific computing and systems engineering. Previously, I 
 I believe the future is superintelligent AI, and getting there requires three practical shifts:
 
 * **Better sensors for better physical data**: Moving beyond web text and synthetic data by building high-fidelity physical sensors and automated lab instrumentation to collect real empirical ground truth.
-* **Post-token architectures**: Developing model representations beyond standard autoregressive token-prediction transformers—exploring continuous reasoning spaces suited for physical and dynamical systems.
+* **Architectures beyond 1980s connectionism & NLP**: Moving past classical neural networks, transformers, and tokenization—which largely rely on legacy cognitive science heuristics and statistical NLP tricks—to design model architectures informed by modern neuroscience and theories of consciousness.
 * **Defensive guardrails**: Building rigorous containment, verification, and safety boundaries to prevent poorly aligned models or bad actors from becoming existential threats.
 
 While that’s the long-term horizon, practically today is about harnessing AI to accelerate real engineering: high-assurance software systems, low-latency robotics control, and high-throughput experimental telemetry.
