@@ -24,7 +24,7 @@ While that’s the long-term horizon, practically today is about harnessing AI t
 * **[care-app](https://github.com/kaushalbalagurusamy/care-app)** — Interactive assessment and education platform engineered for Dr. Amy Banks, MD and the Relational-Cultural Theory (RCT) 50th Anniversary Conference, delivering relational neuroscience evaluations to thousands of students.
 * **[ai-shadowboxing](https://github.com/kaushalbalagurusamy/ai-shadowboxing)** — Adversarial conversational video agent to rehearse high-stakes interpersonal dynamics, calibrate behavioral presence, and develop strategic negotiation skills.
 * **[verbatim-ai](https://github.com/kaushalbalagurusamy/verbatim-ai)** — Concurrent low-latency editor for high-speed speech note-taking, rebuttal generation, and topical scholarly evidential reinforcement.
-* **[candlestick-nano](https://github.com/kaushalbalagurusamy/candlestick-nano)** — Low-latency Solana DEX liquidity stream monitor and execution engine.
+* **[candlestick-nano](https://github.com/kaushalbalagurusamy/candlestick-nano)** — On-chain high-frequency trading algorithm and low-latency liquidity execution engine for volatile cryptocurrency markets.
 
 ---
 
